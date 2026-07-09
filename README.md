@@ -26,9 +26,8 @@ Open `index.html` in your browser. That is it. No install. No build step. No dep
 
 1. Push these files to a GitHub repository.
 2. Go to **Settings → Pages**.
-3. Choose **Deploy from a branch**.
-4. Select the `main` branch and `/root` folder.
-5. Save, wait a minute, and let the gremlins become public infrastructure.
+3. Choose **GitHub Actions** as the source, or deploy from the `main` branch and `/root` folder.
+4. Save, wait a minute, and let the gremlins become public infrastructure.
 
 ## Dependency-free
 
